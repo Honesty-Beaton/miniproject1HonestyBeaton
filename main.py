@@ -13,7 +13,7 @@ aapl = yf.Ticker("AAPL")
 myData = {}
 for ticker in myTickers:
     result = yf.Ticker(ticker)
-    myData[ticker] = {'ticker': ticker, 'dailyHigh': result.info['dayHigh']} #dictionary to store ticker information
+    myData[ticker] = {'ticker': ticker, 'dayHigh': result.info['dayHigh']} #dictionary to store ticker information
     print(f"Ticker:  {ticker} \tDaily High: {result.info['dayHigh']}")
 
 pprint.pprint(myData)
