@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 ```
-pip  install -r requirements.texr
+pip  install -r requirements.txt
 
 ```
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
