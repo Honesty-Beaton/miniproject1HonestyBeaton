@@ -5,7 +5,15 @@
 
 # ⭐ Mini Project 1 ⭐
 
-Simple overview of use/purpose.
+In this project, we are using the yfinance API to track the closing price of 5 tickers for the last 10 trading days.
+The 5 tickers I chose are: 
+    MSFT - Microsoft, 
+    AAPL - Apple, 
+    NVDA - NVIDIA, 
+    SPOT - Spotify, 
+    AMZN - Amazon
+This project uses the packages NumPy and MatPlotLib.
+
 
 ## Description
 
@@ -18,29 +26,16 @@ An in-depth paragraph about your project and overview of use.
 pip  install -r requirements.txt
 
 ```
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+python main.py
 ```
 
-## Help
+## Output
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Creates 5 graphs in charts/ for each of the five chosen stocks.
 
 ## Authors
 
@@ -49,14 +44,13 @@ command to run if program contains helper info
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* See [commit change]()
 
 ## License
 
 No license for this project.
 
-## Acknowledgments
+## Acknowledgements
+* [yFinance API](https://pypi.org/project/yfinance/)
+* [MatPlotLib](https://matplotlib.org/stable/tutorials/pyplot.html)
+* [NumPy](https://numpy.org/doc/stable/user/whatisnumpy.html)
