@@ -1,6 +1,6 @@
-### INF601 - Advanced Programming in Python
-### Honesty Beaton
-### Mini Project 1
+# INF601 - Advanced Programming in Python
+# Honesty Beaton
+# Mini Project 1
 """
  Using API's, NumPy and MatPlotLib to track and display the closing price off
  5 stock tickers as a graph for the last 10 trading days
