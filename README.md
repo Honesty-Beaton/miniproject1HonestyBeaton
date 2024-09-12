@@ -5,6 +5,7 @@
 
 # ⭐ Mini Project 1 ⭐
 
+## Description & Overview
 In this project, we are using the yfinance API to track the closing price of 5 tickers for the last 10 trading days.
 The 5 tickers I chose are: 
  * MSFT - Microsoft, 
@@ -15,12 +16,14 @@ The 5 tickers I chose are:
 
 This project uses the packages NumPy and MatPlotLib.
 
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
+1) Clone this project
+2) ```pip install -r requirements.txt ```
+3) In a terminal, run: 
+```
+python main.py
+```
+
 
 ### Dependencies
 ```
@@ -36,7 +39,7 @@ python main.py
 
 ## Output
 
-Creates 5 graphs in charts/ for each of the five chosen stocks.
+Creates 5 graphs/charts for each of the five chosen stocks containing their closing price for the last 10 trading days.
 
 ## Authors
 
