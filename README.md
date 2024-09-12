@@ -19,10 +19,7 @@ This project uses the packages NumPy and MatPlotLib.
 ## Getting Started
 1) Clone this project
 2) ```pip install -r requirements.txt ```
-3) In a terminal, run: 
-```
-python main.py
-```
+3) In a terminal, run: ``` python main.py ```
 
 
 ### Dependencies
