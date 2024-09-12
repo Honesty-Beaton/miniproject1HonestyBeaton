@@ -7,11 +7,11 @@
 
 In this project, we are using the yfinance API to track the closing price of 5 tickers for the last 10 trading days.
 The 5 tickers I chose are: 
-    * MSFT - Microsoft, 
-    * AAPL - Apple, 
-    * NVDA - NVIDIA, 
-    * SPOT - Spotify, 
-    * AMZN - Amazon
+ * MSFT - Microsoft, 
+ * AAPL - Apple, 
+ * NVDA - NVIDIA, 
+ * SPOT - Spotify, 
+ * AMZN - Amazon
 This project uses the packages NumPy and MatPlotLib.
 
 
