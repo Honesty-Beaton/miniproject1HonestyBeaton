@@ -12,6 +12,7 @@ The 5 tickers I chose are:
  * NVDA - NVIDIA, 
  * SPOT - Spotify, 
  * AMZN - Amazon
+
 This project uses the packages NumPy and MatPlotLib.
 
 
